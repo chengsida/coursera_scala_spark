@@ -1,0 +1,381 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$2.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$3.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$6.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator4$1.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$2
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$6
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator4$1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+215 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator4
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Math
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> col
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> d
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> divide
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> exists
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> foldRight
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getAs
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> lang
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> list
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> name
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newStringEncoder
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherPre
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryPre
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toList
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tur
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingPre
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$19
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$20
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$21
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$22
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$23
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x$24
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+26 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$2.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1$$anonfun$apply$3.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$classifiedColumns$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$6.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator4$1.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1492505850000)
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1492505850000)
+source stamps:
+1 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(8e1662fade986ae9543ebfdda810765892f4a1d3)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428691662000)
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StructType
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.Dataset
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction6
+/Users/chengsida/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AonNxAH4AmwF1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADt1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AoXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgCwdAAFQXJyYXlxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCwdAAGU3RyaW5nc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQABGphdmFzcQB+ALx0AARsYW5ncQB+AMFwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2cHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAWdGltZXVzYWdlLlRpbWVVc2FnZVJvd3VxAH4AkwAAAAB+cQB+AJV0AAhDbGFzc0RlZnVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+ANUAAAAGc3EAfgCwdAAMU2VyaWFsaXphYmxlc3EAfgC0c3EAfgC3dXEAfgC6AAAAAnNxAH4AvHEAfgC/cQB+AMFzcQB+ALBxAH4A+nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHQAAmlvcQB+AMFzcQB+ALB0AAdQcm9kdWN0cQB+APtzcQB+ALB0AAZFcXVhbHNxAH4A+3NxAH4AsHEAfgDlc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8cQB+AN9xAH4AwXNxAH4AsHEAfgDncQB+APtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4BH4711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABbL1VzZXJzL2NoZW5nc2lkYS9Eb2N1bWVudHMvUGxheS9zY2FsYV9zcGFyay9hc3NpZ25tZW50My90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI4WYvremGrpVD6/3agQdliS9KHT
+external apis:
+0 items
+source infos:
+1 items
+/Users/chengsida/Documents/Play/scala_spark/assignment3/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4AkhTl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9jaGVuZ3NpZGEvRG9jdW1lbnRzL1BsYXkvc2NhbGFfc3BhcmsvYXNzaWdubWVudDMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4ArUFF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9jaGVuZ3NpZGEvRG9jdW1lbnRzL1BsYXkvc2NhbGFfc3BhcmsvYXNzaWdubWVudDMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4BCiv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9jaGVuZ3NpZGEvRG9jdW1lbnRzL1BsYXkvc2NhbGFfc3BhcmsvYXNzaWdubWVudDMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW4BH4711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9jaGVuZ3NpZGEvRG9jdW1lbnRzL1BsYXkvc2NhbGFfc3BhcmsvYXNzaWdubWVudDMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
